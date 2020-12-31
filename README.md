@@ -1,4 +1,4 @@
-# urbandictionary-gson
+# urban-dictionary-gson
 A Java urban-dictionary wrapper that uses the GSON library
 
 # Main Files

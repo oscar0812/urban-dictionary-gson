@@ -1,9 +1,6 @@
 # urbandictionary-gson
 A Java urban-dictionary wrapper that uses the GSON library
 
-## Installation
-Download the jar artifact from out/artifacts/urban_dictionary_gson_jar/... and import it into your IDE.
-
 # Main Files
 ### UrbanDictionary.java
 UrbanDictionary fetches the API and sets the fields for Definition
@@ -23,6 +20,9 @@ public String written_on;
 public String example;
 public int thumbs_down;
 ```
+
+## Installation
+Download the jar artifact from out/artifacts/urban_dictionary_gson_jar/... and import it into your IDE.
 
 # Usage
 
